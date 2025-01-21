@@ -6,17 +6,19 @@ NanoAPI is a tool built to reinvent development of complex API codebases. Tailor
 
 Experience a new development paradigm where software is written as monoliths and deployed as microservices. 
 
-- Our main project will launch on 28th October 2024. Please check back then and give it a ⭐
-- Not interested in self-hosting your API? We offer a cloud-hosted version of NanoAPI with per-endpoint scale-to-zero, API metrics, and easy deploys. [Sign up for the waitlist](https://145517078.hs-sites-eu1.com/nanoapi-waitinglist).
-- Want all the powerful features of NanoAPI's hosting on your own servers? [Contact us](mailto:sales@nanoapi.io) for an on-prem quote.
+- High-level overviews and documentation of your APIs.
+- Group similar APIs together and extract microservices or smaller component APIs at build or deploy time.
+- (Experimental) Use our dependency visualizer to get a better overview of your architectural complexity and feed information on how best to split a codebase.
 - We're looking for design partners to help us shape the future of NanoAPI. If you're interested in getting early access and providing feedback, please apply by [sending us an email](mailto:info@nanoapi.io).
+
+[Demo video available on YouTube](https://youtu.be/-07KRt7HWdE)
 
 ![NanoAPI](../images/nanoapi.png)
 
 NanoAPI is steadily growing:
 - 🌟 Our team has been inducted into [Techstars Berlin](https://www.linkedin.com/feed/update/urn:li:activity:7239236320504532993/), who have thrown their full support and funding behind our project.
 - 🧑‍💻 We've hired our first engineer, and are looking to add DevRel and DevExp roles to our team.
-- ⛰️ Find us at [Web Summit Lisbon](https://websummit.com/) in November 2024.
+- ⛰️ We're looking for investors and supporters who are willing to join, engage, and contribute to democratizing software that large consulting firms have kept behind closed doors for far too long.
 
 
 Our <a href="https://faircode.io/">Fair-code</a> approach means the tool is not a black box, you will always be able to see and understand exactly how it works on your codebase.
