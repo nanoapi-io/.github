@@ -13,7 +13,7 @@ Experience software architecture in the AI age.
 
 [Demo video available on YouTube](https://youtu.be/gDTcf5eesE8)
 
-![NanoAPI](../images/hero-app.png)
+![NanoAPI](../images/hero-app.jpeg)
 
 Our <a href="https://faircode.io/">Fair-code</a> approach means the tool is not a black box, you will always be able to see and understand exactly how it works on your codebase.
 
